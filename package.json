@@ -1,0 +1,21 @@
+{
+  "name": "lucyproj",
+  "version": "1.0.0",
+  "description": "trying an IBM service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon listen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodheadlucy/lucyproj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodheadlucy/lucyproj/issues"
+  },
+  "homepage": "https://github.com/woodheadlucy/lucyproj#readme"
+}
